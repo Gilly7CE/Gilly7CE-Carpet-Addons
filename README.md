@@ -34,5 +34,7 @@ Cannot be used whilst rule `exactPortalGeneration` is enabled.
 ## regenChunks (to be implemented)
 Allows you to regenerate chunks in survial by holding a book, typing .s in chat and standing over a hopper. This will then kick you from the game and when you relog the chunk will have been regenerated. 
 This brings in behaviour from a bug exploit discovered by Andrew which worked in 1.17.0 and prior. USE WITH CAUTION.
+## restoreRNGManipulation
+Allows you to use RNG manipulation from the 1.12 and prior days!
 ## sandFromSandstone (to be implemented)
 Blowing up sandstone with tnt will drop sand. Same is true for redsandstone to redsand.
